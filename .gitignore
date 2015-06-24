@@ -1,0 +1,48 @@
+.DS_Store
+build/
+*.class
+*.bak
+._*
+MANIFEST.MF
+bin/
+.metadata
+
+ec-mj-entity/.classpath
+ec-mj-entity/.project
+ec-mj-entity/.settings/*
+ec-mj-entity/target/*
+
+ec-mj-objects/.classpath
+ec-mj-objects/.project
+ec-mj-objects/.settings/*
+ec-mj-objects/target/*
+
+ec-mj-persistence/.classpath
+ec-mj-persistence/.project
+ec-mj-persistence/.settings/*
+ec-mj-persistence/target/*
+
+ec-mj/.settings/*
+
+ec-mj/ec-mj-ear/.settings/*
+ec-mj/ec-mj-ear/target/*
+
+ec-mj/ec-mj-ejb-cache/.classpath
+ec-mj/ec-mj-ejb-cache/. project
+ec-mj/ec-mj-ejb-cache/.settings/*
+ec-mj/ec-mj-ejb-cache/target/*
+
+ec-mj/ec-mj-ejb-common/.classpath
+ec-mj/ec-mj-ejb-common/. project
+ec-mj/ec-mj-ejb-common/.settings/*
+ec-mj/ec-mj-ejb-common/target/*
+
+ec-mj/ec-mj-web/.classpath
+ec-mj/ec-mj-web/. project
+ec-mj/ec-mj-web/.settings/*
+ec-mj/ec-mj-web/target/*
+
+ec-mj/ec-mj-website/.classpath
+ec-mj/ec-mj-website/. project
+ec-mj/ec-mj-website/.settings/*
+ec-mj/ec-mj-website/target/*

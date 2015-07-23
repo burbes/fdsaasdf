@@ -1,0 +1,163 @@
+SENAI - Controle de Estoque
+http://www.sebrae.com.br/sites/PortalSebrae/artigos/Como-elaborar-o-controle-de-estoque-de-mercadorias
+
+TCC Sobre Gestão de Estoque
+http://unipe.br/blog/administracao/wp-content/uploads/2008/11/gestao-estrategica-de-recursos-materiais-controle-de-estoque-e-armazenamento.pdf
+
+Projeto de Armazéns
+http://www.producao.ufrgs.br/arquivos/disciplinas/393_seq_9_armazenamento.pdf
+
+- Estoque para cada variação de produto (SKU)
+
+- Controle de saida média diaria de cada produto possibilitando médias { Ultimos 5,7,15,30,45,60 dias }
+
+- Carga de lista de estoque de fornecedores com possibilidade de cadastrar valores de compra por faixa de unidades
+0-50	R$ 12.99
+51-100 	R$ 12.49 ...
+
+- Inserção de valores de custo em cada item do estoque
+{ 	Cotação do dolar
+	IOF
+	ICMS
+	x, y, z impostos de importação
+}
+
+- Custo de capital nos 		Produtos X Tempo
+- Custo de armazenagem dos 	Produtos X Tempo
+- Custo de depreciação nos 	Produtos X Tempo
+
+- Tempo critico de permanencia do produto em estoque
+
+- Politica de alerta / desconto progressivo quando o produto está parado em estoque
+
+- Modulo para contagem de estoque *
+	[
+		- Ultima data de contagem
+		- Responsável pela contagem
+		- Iniciar contagem "Status/Flag" de contagem pendente
+		- Flag para marcar como contado e colocar o número contado
+		- Tela com resumo das divergências para ajuste contábil
+	]
+
+- Valor médio ponderado do estoque
+
+- Endereço do produto em estoque
+
+- Opção de ir aumentado o "custo"  do produto conforme passa o tempo.	
+([Naelson: Custo eu acredito que seja o custo de permanencia do produto no local, perguntar p/ Fernando)
+
+- Custo Real X Custo Virtual
+
+- Tempo médio de recebimento do estoque após pedido:
+	-- Por Produto
+	-- Por Fornecedor
+	
+- Valor de frete por compra
+
+- Compra minima & Compra maxima 
+	-- Por Produto
+	-- Por Fornecedor
+	
+- Previsão de tempo total para vender [todo?] o estoque a cada compra
+
+- Previsão de custo total e custo médio unitário para vender o estoque, levando em conta os custos que variam com o tempo
+
+- Definição da quantidade ideal para compra de cada produto, de forma a minimizar o custo médio unitário, quando possível
+
+- Geração de lista de compras diárias com a quantidade de cada produto e os dados dos fornecedores, quando houver
+
+- Inserção no sistema de um pedido de compra para cada fornecedor, anexando Nota Fiscal (NF), etc.
+
+- Sistema para contagem de peças ao receber a lista de compras, marcando divergências quando houverem, deixando em cada fornecedor.
+
+- CRUD Fornecedores com histórico de compras
+
+- CRUD Compras (Com filtros e status)
+
+- Computar compra recebida em estoque após contagem
+
+- API para permitir a consulta/alteração de estoque por outros sistemas
+
+- Sistema de permissões, autorização por etapas de cada ação do sistema.
+
+- Sistema de log p/ todas as alterações efetuadas.
+
+- API para permitir consulta de custo real/virtual de cada item por outros sistemas.
+
+- CRUD Contagens
+
+- CRUD Canais de Venda
+
+- Definição de custo percentual(%) aproximado por venda em cada canal
+
+- Definição de margem de lucro prevista para cada canal
+
+- Sugestão de preço de venda para cada canal, permitindo consulta via API
+
+- Ações de promoção por idade em estoque impactam no preço sugerido de venda.
+
+================================================
+	MENU
+	
+	Produtos
+	- Cadastro
+	- Associar Fornecedores
+	
+	Fornecedores
+	- Cadastro
+	- Associar Produtos
+	
+	Compras
+	- Cadastro
+	- Lista de Compras
+	
+	Configurações
+	- Usuários
+	- Permissoes
+	- Custos Temporais 
+		-- Capital
+		-- Armazenagem
+		-- Depreciação		
+	- Moedas
+	- Alertas
+	- Impostos
+	
+	Relatórios
+	- Saida de Produtos (Por período, média, por canal de venda)
+	
+	Canais de Venda
+	- Cadastro
+	
+	Estoque
+	- Regras para Liquidação
+		-- Tempo Crítico de Permanencia
+		-- Custo incremental %		
+	- Ajustar Estoque
+	- Contagem
+	
+	Endereçamento
+	
+	
+=========================
+.: Reunião com Fernando :.
+Fernando quer que exista um faturamento formal e informal (para caso o usuário não queira faturar [ilegalmente]).
+Faturamento = Nota Fiscal + Receita
+Fernando quer uma tela de ajuste de estoque pois há momentos em que pode haver problema na contagem de itens do estoque. 
+Disparo automatico de compras para quando o item no estoque chegar na quantidade minima.
+Verificação inteligente de compra automática de produto por fornecedor. No caso o sistema deve analisar o + barato e o tempo que o produto demora para chegar.
+Integração melitools (entrega os pedidos)
+==========================
+Zé quer que a aprovação tenha 2 validações:
+ - Por area + custo: Se uma compra envolve mais de uma "area" então deve passar por aprovação.
+ - Acima do "teto": Devemos ter uma parametrização de "teto" para compras, ou seja, compras abaixo desse teto não precisa de aprovação, caso contrário deve-se ter a aprovação.
+==========================
+*** eu estava relendo tudo dos cadernos e anotando informações passadas ***
+
+
+
+
+
+
+
+
+

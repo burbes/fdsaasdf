@@ -8,56 +8,68 @@ Projeto de Armazéns
 http://www.producao.ufrgs.br/arquivos/disciplinas/393_seq_9_armazenamento.pdf
 
 - Estoque para cada variação de produto (SKU)
+Senhores, criei essa User Story para exibir todas as tarefas anotadas. Daqui vamos quebrando em US menores e delegando corretamente para quem irão as devidas tarefas. 
 
-- Controle de saida média diaria de cada produto possibilitando médias { Ultimos 5,7,15,30,45,60 dias }
+============================================================================================================
 
-- Carga de lista de estoque de fornecedores com possibilidade de cadastrar valores de compra por faixa de unidades
-0-50	R$ 12.99
-51-100 	R$ 12.49 ...
+[EM ANALISE] - CRUD Central de Estoque
 
-- Inserção de valores de custo em cada item do estoque
-{ 	Cotação do dolar
-	IOF
-	ICMS
-	x, y, z impostos de importação
+[EM ANALISE] - CRUD Fornecedores com histórico de compras
+                       - Endereço do produto em estoque
+
+[EM ANALISE] - CRUD Estoque para cada variação de produto
+
+============================================================================================================
+
+
+
+-(Contagem) Controle de saida média diaria de cada produto possibilitando médias { Ultimos 5,7,15,30,45,60 dias }
+
+-(Importação) Carga de lista de estoque de fornecedores com possibilidade de cadastrar valores de compra por faixa de unidades
+0-50    R$ 12.99
+51-100     R$ 12.49 ...
+
+(?Regras para Liquidação -> Custo incremental?) - Inserção de valores de custo em cada item do estoque
+{     Cotação do dolar
+    IOF
+    ICMS
+    x, y, z impostos de importação
 }
 
-- Custo de capital nos 		Produtos X Tempo
-- Custo de armazenagem dos 	Produtos X Tempo
-- Custo de depreciação nos 	Produtos X Tempo
+(Custos Temporais -> Capital)            - Custo de capital nos                Produtos X Tempo
+(Custos Temporais -> Armazenagem) - Custo de armazenagem dos     Produtos X Tempo
+(Custos Temporais -> Depreciação)    - Custo de depreciação nos        Produtos X Tempo
 
-- Tempo critico de permanencia do produto em estoque
+(Produtos- Aba Estoque) - Tempo critico de permanencia do produto em estoque
 
-- Politica de alerta / desconto progressivo quando o produto está parado em estoque
+(Notificações/Alertas) - Politica de alerta / desconto progressivo quando o produto está parado em estoque
 
-- Modulo para contagem de estoque *
-	[
-		- Ultima data de contagem
-		- Responsável pela contagem
-		- Iniciar contagem "Status/Flag" de contagem pendente
-		- Flag para marcar como contado e colocar o número contado
-		- Tela com resumo das divergências para ajuste contábil
-	]
+(Contagem) - Modulo para contagem de estoque
+    [
+        - Ultima data de contagem
+        - Responsável pela contagem
+        - Iniciar contagem "Status/Flag" de contagem pendente
+        - Flag para marcar como contado e colocar o número contado
+        - Tela com resumo das divergências para ajuste contábil
+    ]
 
-- Valor médio ponderado do estoque
+(?Menu Lateral?) - Valor médio ponderado do estoque
 
-- Endereço do produto em estoque
-
-- Opção de ir aumentado o "custo"  do produto conforme passa o tempo.	
+(Ajustar Estoque) - Opção de ir aumentado o "custo"  do produto conforme passa o tempo.    
 ([Naelson: Custo eu acredito que seja o custo de permanencia do produto no local, perguntar p/ Fernando)
 
-- Custo Real X Custo Virtual
+(?Menu Lateral?) - Custo Real X Custo Virtual
 
-- Tempo médio de recebimento do estoque após pedido:
-	-- Por Produto
-	-- Por Fornecedor
-	
-- Valor de frete por compra
+(Regras para Liquidação -> Tempo Crítico de Permanencia)- Tempo médio de recebimento do estoque após pedido:
+    -- Por Produto
+    -- Por Fornecedor
+    
+(Endereçamento) - Valor de frete por compra
 
-- Compra minima & Compra maxima 
-	-- Por Produto
-	-- Por Fornecedor
-	
+(Produtos) - Compra minima & Compra maxima 
+    -- Por Produto
+    -- Por Fornecedor
+    
 - Previsão de tempo total para vender [todo?] o estoque a cada compra
 
 - Previsão de custo total e custo médio unitário para vender o estoque, levando em conta os custos que variam com o tempo
@@ -70,7 +82,7 @@ http://www.producao.ufrgs.br/arquivos/disciplinas/393_seq_9_armazenamento.pdf
 
 - Sistema para contagem de peças ao receber a lista de compras, marcando divergências quando houverem, deixando em cada fornecedor.
 
-- CRUD Fornecedores com histórico de compras
+
 
 - CRUD Compras (Com filtros e status)
 
@@ -96,47 +108,47 @@ http://www.producao.ufrgs.br/arquivos/disciplinas/393_seq_9_armazenamento.pdf
 
 - Ações de promoção por idade em estoque impactam no preço sugerido de venda.
 
+
 ================================================
-	MENU
-	
-	Produtos
-	- Cadastro
-	- Associar Fornecedores
-	
-	Fornecedores
-	- Cadastro
-	- Associar Produtos
-	
-	Compras
-	- Cadastro
-	- Lista de Compras
-	
-	Configurações
-	- Usuários
-	- Permissoes
-	- Custos Temporais 
-		-- Capital
-		-- Armazenagem
-		-- Depreciação		
-	- Moedas
-	- Alertas
-	- Impostos
-	
-	Relatórios
-	- Saida de Produtos (Por período, média, por canal de venda)
-	
-	Canais de Venda
-	- Cadastro
-	
-	Estoque
-	- Regras para Liquidação
-		-- Tempo Crítico de Permanencia
-		-- Custo incremental %		
-	- Ajustar Estoque
-	- Contagem
-	
-	Endereçamento
-	
+    MENU
+    
+    Produtos
+    - Cadastro
+    - Associar Fornecedores
+    
+    Fornecedores
+    - Cadastro
+    - Associar Produtos
+    
+    Compras
+    - Cadastro
+    - Lista de Compras
+    
+    Configurações
+    - Usuários
+    - Permissoes
+    - Custos Temporais 
+        -- Capital
+        -- Armazenagem
+        -- Depreciação        
+    - Moedas
+    - Alertas
+    - Impostos
+    
+    Relatórios
+    - Saida de Produtos (Por período, média, por canal de venda)
+    
+    Canais de Venda
+    - Cadastro
+    
+    Estoque
+    - Regras para Liquidação
+        -- Tempo Crítico de Permanencia
+        -- Custo incremental %        
+    - Ajustar Estoque
+    - Contagem
+    
+    Endereçamento
 	
 =========================
 .: Reunião com Fernando :.

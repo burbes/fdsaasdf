@@ -24,7 +24,7 @@
         <hLines>false</hLines>
         <selectedIndex>-1</selectedIndex>
         <size>10</size>
-        <text>%2C%20ID%2CProduto%2C%20Qtde%20Estoque%2C%20Saida%20Med.%20Diaria%2C%20Qtde%20Dias%20Estoque%2C%20Qtde%20J%E1%20Pedida%2C%20Temp.%20Chegada%2C%20Qtde%20a%20Pedir%20Hoje%2C%20Status%0A%2C1%20%2C%2C%2C%2C%2C%2C%2C%2CEstoque%20Ok%0A%2C2%2C%2C%2C%2C%2C%2C%2C%2CVai%20Faltar%0A%2C3%2C%2C%2C%2C%2C%2C%2C%2CFazer%20Pedido%0A%2C4%2C%2C%2C%2C%2C%2C%2C%2CSem%20Estoque%0A%7B5%2C5C%2C15C%2C7%2C7%2C7%2C7%2C7%2C7%2C7C%7D</text>
+        <text>%2C%20ID%2CProduto%2C%20Qtde%20Estoque%2C%20Saida%20Med.%20Diaria%2C%20Qtde%20Dias%20Estoque%2C%20Qtde%20J%E1%20Pedida%2C%20Temp.%20Chegada%2C%20Qtde%20a%20Pedir%20Hoje%2C%20Status%0A%2C1%20%2C%2C%2C%2C%2C%2C%2C%2CEstoque%20Ok%0A%2C2%2C%2C%2C%2C%2C%2C%2C%2CVai%20Faltar%0A%2C3%2C%2C%2C%2C%2C%2C%2C%2CFazer%20Pedido%0A%2C4%2C%2C%2C%2C%2C%2C%2C%2CSem%20Estoque%0A%7B5%2C5C%2C5C%2C7%2C7%2C9%2C9%2C7%2C7%2C7C%7D</text>
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
     </control>
@@ -107,7 +107,7 @@
         <text>Modulo%20de%20Estoque</text>
       </controlProperties>
     </control>
-    <control controlID="162" controlTypeID="com.balsamiq.mockups::DataGrid" x="1752" y="1198" w="907" h="315" measuredW="436" measuredH="217" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="162" controlTypeID="com.balsamiq.mockups::DataGrid" x="1752" y="1198" w="907" h="315" measuredW="452" measuredH="217" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <borderStyle>square</borderStyle>

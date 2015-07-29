@@ -16,7 +16,7 @@
         <text>Filtro</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="440" y="1191" w="1700" h="476" measuredW="1594" measuredH="114" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="440" y="1191" w="1700" h="476" measuredW="1592" measuredH="114" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <borderStyle>square</borderStyle>
@@ -24,11 +24,11 @@
         <hLines>false</hLines>
         <selectedIndex>-1</selectedIndex>
         <size>12</size>
-        <text>%2CId%20%5Ev%2C%20Produto%20%5Ev%2C%20Media%20Saida%20Di%E1ria%20%5Ev%2C%20Qtde%20Estoque%20%5Ev%2C%20Qtde%20Encomendada%20%5Ev%2C%20Qtde%20Dias%20Liq.%20Estoque%20%5Ev%2C%20Pre%E7o%20Custo%20%5Ev%2C%20Pre%E7o%20Atual%20%5Ev%2C%20Pre%E7o%20Liquida%E7%E3o%20%5Ev%2C%20Custo%20Obsolesc%EAncia%20%5Ev%2C%20Custo%20Capital%20%5Ev%2C%20Custo%20Armazenagem%20%5Ev%2C%20Custo%20Total%20v%2C%20Status%2C%20A%E7%F5es%0A%2C1%2C%20Aro%2022%2C%20100%2C%2010.000%2C%200%2C%20100%2C%20R%24%2050%5C%2C00%2C%20R%24%2060%5C%2C00%2C%20R%24%2045%5C%2C00%2C%20R%24%20%2C%20R%24%20%2C%20R%24%2010%5C%2C00%2C%20R%24%20%2C%20Normal%0A%2C2%2C%20Aro%2022%2C%20100%2C%2010.000%2C%200%2C%20100%2C%20R%24%2050%5C%2C00%2C%20R%24%2060%5C%2C00%2C%20R%24%2045%5C%2C00%2C%20R%24%20%2C%20R%24%20%2C%20R%24%2010%5C%2C00%2C%20R%24%20%2C%20Em%20Liquida%E7%E3o%0A%2C3%2C%20Aro%2022%2C%20100%2C%2010.000%2C%200%2C%20100%2C%20R%24%2050%5C%2C00%2C%20R%24%2060%5C%2C00%2C%20R%24%2045%5C%2C00%2C%20R%24%20%2C%20R%24%20%2C%20R%24%2010%5C%2C00%2C%20R%24%20%2C%20Normal%0A%7B2%2C2%2C5%2C%207%2C%20%205%2C%207%2C%205%2C%205%2C%205%2C%207%2C%207%2C%205%2C%207%2C%205%2C%205%2C%204%7D</text>
+        <text>%2CId%20%5Ev%2C%20Produto%20%5Ev%2C%20Media%20Saida%20Di%E1ria%20%5Ev%2C%20Qtde%20Estoque%20%5Ev%2C%20Qtde%20Encomendada%20%5Ev%2C%20Qtde%20Dias%20Liq.%20Estoque%20%5Ev%2C%20Pre%E7o%20Custo%20%5Ev%2C%20Pre%E7o%20Atual%20%5Ev%2C%20Pre%E7o%20Liquida%E7%E3o%20%5Ev%2C%20Custo%20Obsolesc%EAncia%20%5Ev%2C%20Custo%20Capital%20%5Ev%2C%20Custo%20Armazenagem%20%5Ev%2C%20Custo%20Total%20v%2C%20Status%2C%20A%E7%F5es%0A%2C1%2C%20Aro%2022%2C%20100%2C%2010.000%2C%200%2C%20100%2C%20R%24%2050%5C%2C00%2C%20R%24%2060%5C%2C00%2C%20R%24%2045%5C%2C00%2C%20R%24%20%2C%20R%24%20%2C%20R%24%20%2C%20R%24%20%2C%20Normal%0A%2C2%2C%20Aro%2022%2C%20100%2C%2010.000%2C%200%2C%20100%2C%20R%24%2050%5C%2C00%2C%20R%24%2060%5C%2C00%2C%20R%24%2045%5C%2C00%2C%20R%24%20%2C%20R%24%20%2C%20R%24%20%2C%20R%24%20%2C%20Em%20Liquida%E7%E3o%0A%2C3%2C%20Aro%2022%2C%20100%2C%2010.000%2C%200%2C%20100%2C%20R%24%2050%5C%2C00%2C%20R%24%2060%5C%2C00%2C%20R%24%2045%5C%2C00%2C%20R%24%20%2C%20R%24%20%2C%20R%24%20%2C%20R%24%20%2C%20Normal%0A%7B2%2C2%2C5%2C%207%2C%20%205%2C%207%2C%205%2C%205%2C%205%2C%207%2C%207%2C%205%2C%207%2C%205%2C%205%2C%204%7D</text>
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Title" x="440" y="885" w="287" h="-1" measuredW="190" measuredH="50" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Title" x="440" y="885" w="287" h="-1" measuredW="192" measuredH="50" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>
         <italic>false</italic>
@@ -88,14 +88,14 @@
         <text>Liquida%E7%E3o</text>
       </controlProperties>
     </control>
-    <control controlID="118" controlTypeID="com.balsamiq.mockups::Label" x="205" y="817" w="363" h="56" measuredW="240" measuredH="37" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::Label" x="205" y="817" w="363" h="56" measuredW="236" measuredH="37" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <color>40463</color>
         <size>28</size>
         <text>Modulo%20de%20Estoque</text>
       </controlProperties>
     </control>
-    <control controlID="162" controlTypeID="com.balsamiq.mockups::DataGrid" x="2725" y="199" w="907" h="315" measuredW="452" measuredH="217" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="162" controlTypeID="com.balsamiq.mockups::DataGrid" x="2725" y="199" w="907" h="315" measuredW="428" measuredH="217" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <borderStyle>square</borderStyle>
@@ -113,7 +113,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="166" controlTypeID="com.balsamiq.mockups::ComboBox" x="3463" y="229" w="120" h="-1" measuredW="107" measuredH="23" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="166" controlTypeID="com.balsamiq.mockups::ComboBox" x="3463" y="229" w="120" h="-1" measuredW="111" measuredH="23" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Fornecedor%20X</text>
       </controlProperties>
@@ -168,12 +168,12 @@
         <text>Agrupar%20Produtos%20do%20Mesmo%20Fornecedor</text>
       </controlProperties>
     </control>
-    <control controlID="187" controlTypeID="com.balsamiq.mockups::ComboBox" x="3463" y="275" w="120" h="-1" measuredW="107" measuredH="23" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="187" controlTypeID="com.balsamiq.mockups::ComboBox" x="3463" y="275" w="120" h="-1" measuredW="111" measuredH="23" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Fornecedor%20X</text>
       </controlProperties>
     </control>
-    <control controlID="188" controlTypeID="com.balsamiq.mockups::ComboBox" x="3463" y="322" w="120" h="-1" measuredW="107" measuredH="23" zOrder="28" locked="false" isInGroup="-1">
+    <control controlID="188" controlTypeID="com.balsamiq.mockups::ComboBox" x="3463" y="322" w="120" h="-1" measuredW="111" measuredH="23" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Fornecedor%20X</text>
       </controlProperties>
@@ -215,6 +215,7 @@
     </control>
     <control controlID="230" controlTypeID="com.balsamiq.mockups::CheckBox" x="457" y="1218" w="-1" h="-1" measuredW="26" measuredH="22" zOrder="36" locked="false" isInGroup="-1">
       <controlProperties>
+        <state>selected</state>
         <text/>
       </controlProperties>
     </control>
@@ -225,12 +226,13 @@
     </control>
     <control controlID="232" controlTypeID="com.balsamiq.mockups::CheckBox" x="457" y="1274" w="-1" h="-1" measuredW="26" measuredH="22" zOrder="38" locked="false" isInGroup="-1">
       <controlProperties>
+        <state>selected</state>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="237" controlTypeID="com.balsamiq.mockups::ComboBox" x="2606" y="1214" w="331" h="-1" measuredW="160" measuredH="94" zOrder="39" locked="false" isInGroup="-1">
+    <control controlID="237" controlTypeID="com.balsamiq.mockups::ComboBox" x="2610" y="1214" w="327" h="-1" measuredW="160" measuredH="94" zOrder="39" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>At%E9%20Liquidar%20o%20Estoque%0AAt%E9%20Atingir%20X%20Unidades%20em%20Estoque%0AAt%E9%20que%20o%20custo%20para%20liquida%E7%E3o%20se%20torne%20menor%20que%20X%0AAt%E9%20a%20data%20X%0AIndefinidamente</text>
+        <text>At%E9%20Liquidar%20o%20estoque%0AAt%E9%20Atingir%20X%20Unidades%20em%20Estoque%0AAt%E9%20que%20o%20custo%20para%20liquida%E7%E3o%20se%20torne%20menor%20que%20X%0AAt%E9%20a%20data%20X%0AIndefinidamente</text>
       </controlProperties>
     </control>
     <control controlID="256" controlTypeID="com.balsamiq.mockups::Label" x="2610" y="1324" w="-1" h="-1" measuredW="58" measuredH="21" zOrder="40" locked="false" isInGroup="-1">
@@ -431,6 +433,36 @@
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
+    </control>
+    <control controlID="274" controlTypeID="com.balsamiq.mockups::HCurly" x="2062" y="1308" w="47" h="20" measuredW="200" measuredH="80" zOrder="56" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="275" controlTypeID="com.balsamiq.mockups::StickyNote" x="2217" y="1580" w="132" h="102" measuredW="109" measuredH="123" zOrder="57" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>Ativar/Desativar%0ALiquida%E7%E3o%0AIndividualmente</text>
+      </controlProperties>
+    </control>
+    <control controlID="276" controlTypeID="com.balsamiq.mockups::Arrow" x="2086" y="1331" w="182" h="248" measuredW="150" measuredH="100" zOrder="58" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>top</direction>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="277" controlTypeID="com.balsamiq.mockups::Button" x="440" y="1151" w="-1" h="-1" measuredW="195" measuredH="27" zOrder="59" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10470904</color>
+        <text>Habilitar%20Liquida%E7%E3o%20em%20Massa</text>
+      </controlProperties>
+    </control>
+    <control controlID="279" controlTypeID="com.balsamiq.mockups::Button" x="641" y="1151" w="-1" h="-1" measuredW="200" measuredH="27" zOrder="60" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>Encerrar%20Liquida%E7%E3o%20em%20Massa</text>
+      </controlProperties>
     </control>
   </controls>
 </mockup>

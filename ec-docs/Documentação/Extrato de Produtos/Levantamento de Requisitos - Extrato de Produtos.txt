@@ -1,0 +1,28 @@
+	Extrato de Produto
+	 Esta tela será um item dentro do menu produtos
+	 Será uma tela que calculará a entrada e saida dos produtos do estoque.
+	
+	Requisitos:
+	
+	- Na tela inicial, deverá ter uma grid com os seguintes paramentos:		
+		- ID
+		- Data
+		- Canal de venda
+		- Valor
+		- Referência externa
+		- Descrição
+		- Responsável
+		- Operação (Débito / Crédito) ;
+				-- Quantidade que E/S
+				-- Quantidade consolidada me estoque
+		- Motivo (Compra, Venda, Compra Avulsa, Venda Avulsa, Saldo inicial, Movimentação Interna, etc)
+		- Tipo (Real ou Provisão)
+		- Produto
+		- Endereço no estoque	 (X,Y,Z)	
+		
+	- O sistema deve contemplar  filtros dos parametros na grid
+	- Deve ser possivel filtrar os produtos por X,Y,Z ou ArmazemO
+		
+	- O sistema deverá contemplar um grafico mostrando:
+		-- A média de E/S daquele produto
+		-- Total em estoque daquele produto

@@ -1,0 +1,52 @@
+	Modulo de Contagem
+	 Esta tela será um item dentro do menu produtos
+	 A tela tem como função fazer ajustes na quantidade dos produtos por motivos variados.
+	 
+	
+	
+	- Botão Inserir Ajuste Manual (Contagem)
+	
+	- Botão "Ajuste" na grid para cada produtos. Ao clicar neste botão abrirá uma modal 
+		-- Combobox "Motivo do Ajute"
+			-- Compra de produtos
+			-- Venda de produtos
+			-- Compra avulsa de produto
+			-- Venda avulsa de produto
+			-- Contagem avulsa (checagem por armazem/pratileira xyz)
+			-- Contagem Inicial (checagem geral)
+				--- A contagem inicial sobrescreverá a quantidade atual do produto em estoque
+			-- 
+		-- E/S de Produtos. Utilizar input type number. Acresmo ou Decrescimo de unidades.
+		-- Descrição do Motivo do Ajuste
+		-- Exibir o saldo atual (vindo do sistema) na modal e na grid inicial.
+		-- Criar um alerta ou um campo de status para freezar o produto impedindo entrada e saida daquele produto (daquela pratileira e generalizado). 
+		-- O freeze pode ser por pratileira ou geral, ou naquele armazem.
+		-- Os produtos listados neste modulo de contagem são os produtos que estarão com o estatus pendente em compras.
+		-- Existe 3 razões para se fazer contagem em um produto:
+			--- Recebendo compras
+			--- Situação do produto em Estoque
+			--- Situação do armazem
+			--- Movimentação interna. Incluir campo qtde da transferencia e o responsavel dela.
+		-- No caso Situação do produto em Estoque e Situação do Armazém deve se ter o campo Quantidade Nominal (que é a quantidade que veio na folha da nota fiscal) e Quantidade que Contou.
+		-- Incluir aprovação
+		-- Status ou um tipo de alerta nos produtos que tiveram contagem a menos do que está na nominal. Uma notificação também seria interessante, alertando produto divergente no modulo de compras.
+		-- No tipo de contagem Recebenco Compras deve enviar para a tela de extrado após contado para dar entrada.
+		-- Campo para D/C
+		-- Trazer o checkbox "Freeze na movimentação daquele produto" sempre true.
+		-- Não permitir que tenha 2 contagens para o mesmo produto, criar algum alerta ou bloquear o usuário antes.
+		-- Dentro da tela de produtos deve haver uma forma de apontar o armazem X,Y,Z e a quantidade que há daquele produto naquela prateleira.
+		-- Ao receber uma compra apontar para qual armazem o produto vai (no modulo de contagem), explicitidamente para qual prateleira. Com possibilidade de distribuir em varias prateleiras.
+		-- Ao habilitar a contagem de um item, deve haver 3 possibilidades de situação:
+		--- Congelar de todo armazem.
+		--- Congelar apenas de novas encomendas
+		--- Apenas daquela prateleira/armazem (x,y,z).
+		-- Incluir campo "Responsavel pela contagem", este será um usuário do sistema.
+		-- Contagem do tipo
+			--- Recebendo compras o produto é aberto automaticamente
+			Nas demais o usuário inicia a contagem pelo botão
+			--- Situação do produto em Estoque
+			--- Situação do armazem
+		
+		
+	
+	

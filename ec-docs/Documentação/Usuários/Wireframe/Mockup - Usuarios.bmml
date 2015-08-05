@@ -1,8 +1,8 @@
 <mockup version="1.0" skin="sketch" measuredW="3050" measuredH="2715" mockupW="3029" mockupH="2582">
   <controls>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="171" y="1198" w="167" h="574" measuredW="138" measuredH="55" zOrder="76" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="171" y="1198" w="167" h="574" measuredW="148" measuredH="55" zOrder="76" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Usu%E1rios%20do%20Sistema%0A-%20Gerenciar</text>
+        <text>Menu%0A--%20Usu%E1rios%20do%20Sistema</text>
       </controlProperties>
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::FieldSet" x="345" y="1251" w="1088" h="223" measuredW="200" measuredH="170" zOrder="77" locked="false" isInGroup="-1">

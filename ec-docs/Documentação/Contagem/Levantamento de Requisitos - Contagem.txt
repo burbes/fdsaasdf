@@ -21,7 +21,7 @@
 		-- Exibir o saldo atual (vindo do sistema) na modal e na grid inicial.
 		-- Criar um alerta ou um campo de status para freezar o produto impedindo entrada e saida daquele produto (daquela pratileira e generalizado). 
 		-- O freeze pode ser por pratileira ou geral, ou naquele armazem.
-		-- Os produtos listados neste modulo de contagem são os produtos que estarão com o estatus pendente em compras.
+		-- Os produtos listados neste modulo de contagem são os produtos que estarão com o status pendente em compras.
 		-- Existe 3 razões para se fazer contagem em um produto:
 			--- Recebendo compras
 			--- Situação do produto em Estoque

@@ -30,7 +30,7 @@
         <hLines>false</hLines>
         <selectedIndex>-1</selectedIndex>
         <size>10</size>
-        <text>ID%2C%20Respons%E1vel%2C%20Contagem%2C%20Fornecedor%2C%20Data%2C%20Qtde%20Itens%2C%20Situa%E7%E3o%2C%20Status%2C%20A%E7%F5es%0A4%2C%20Jo%E3o%20Mario%2C%20Recebimento%20de%20Encomenda%2C%20Fornecedor%20X%2C%2004/08/2015%2C%20753%2C%20Em%20contagem%2C%20Pendente%0A3%2C%20Jos%E9%20Alencar%2C%20Recebimento%20de%20Encomenda%2C%20Fornecedor%20W%2C%20%2004/08/2015%2C%20951%2C%20Em%20contagem%2C%20Pendente%0A2%2C%20Oswaldo%20de%20Andrade%2C%20Armaz%E9m%2C%20-%2C%2004/08/2015%2C%20357%2C%20Contado%2C%20Confere%2C%0A1%2C%20Cec%EDlia%20Ramos%2C%20Produto%2C%20-%2C%2004/08/2015%2C%20159%2C%20Contado%2C%20N%E3o%20Confere%2C%0A%7B5%2C%2020%2C%2025%2C%2020%2C%2025%2C%2015%2C%2015%2C%2010%2C%2028%7D</text>
+        <text>ID%2C%20Respons%E1vel%2C%20Contagem%2C%20Fornecedor%2C%20Data%2C%20Qtde%20Itens%2C%20Situa%E7%E3o%2C%20Status%2C%20A%E7%F5es%0A4%2C%20Jo%E3o%20Mario%2C%20Recebimento%20de%20Encomenda%2C%20Fornecedor%20X%2C%2004/08/2015%2C%20753%2C%20Em%20contagem%2C%20Pendente%0A3%2C%20-%2C%20Recebimento%20de%20Encomenda%2C%20Fornecedor%20W%2C%20%2004/08/2015%2C%20951%2C%20N%E3o%20Contado%2C%20Pendente%0A2%2C%20Oswaldo%20de%20Andrade%2C%20Armaz%E9m%2C%20-%2C%2004/08/2015%2C%20357%2C%20Contado%2C%20Confere%2C%0A1%2C%20Cec%EDlia%20Ramos%2C%20Produto%2C%20-%2C%2004/08/2015%2C%20159%2C%20Contado%2C%20N%E3o%20Confere%2C%0A%7B5%2C%2020%2C%2025%2C%2020%2C%2025%2C%2015%2C%2015%2C%2010%2C%2028%7D</text>
         <verticalScrollbar>true</verticalScrollbar>
       </controlProperties>
     </control>
@@ -219,7 +219,7 @@
         <verticalScrollbar>true</verticalScrollbar>
       </controlProperties>
     </control>
-    <control controlID="1284" controlTypeID="com.balsamiq.mockups::DataGrid" x="1621" y="2484" w="625" h="174" measuredW="385" measuredH="169" zOrder="44" locked="false" isInGroup="-1">
+    <control controlID="1284" controlTypeID="com.balsamiq.mockups::DataGrid" x="1621" y="2484" w="625" h="174" measuredW="401" measuredH="169" zOrder="44" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%20%20%2CProduto%2C%20Armazem%2C%20Localiza%E7%E3o%2C%20Quantidade%20Nominal%0A%2CCalota%20Golf%2C%20Vendas%2C%20X%20-%2012%20%5CrY%20-%2034%20%5CrZ%20-%2056%2C%20456%0A%2CCalota%20Golf%2C%20Qualidade%2C%20X%20-%2087%20%5CrY%20-%2009%20%5CrZ%20-%2021%2C%20987%0A%2CCalota%20Golf%2C%20Avarias%2C%20X%20-%2043%20%5CrY%20-%2065%20%5CrZ%20-%2087%2C753</text>
         <verticalScrollbar>true</verticalScrollbar>
@@ -314,7 +314,7 @@
         <text>Produto</text>
       </controlProperties>
     </control>
-    <control controlID="1441" controlTypeID="com.balsamiq.mockups::Tooltip" x="2208" y="2658" w="214" h="84" measuredW="198" measuredH="84" zOrder="35" locked="false" isInGroup="-1">
+    <control controlID="1441" controlTypeID="com.balsamiq.mockups::Tooltip" x="2208" y="2658" w="214" h="84" measuredW="198" measuredH="51" zOrder="35" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <text>Quantidade%20Nominal%20%E9%20a%20%0Aquantidade%20total%20em%20estoque%20%0Ana%20localiza%E7%E3o%20especifica.</text>

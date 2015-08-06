@@ -557,5 +557,10 @@
         <text>Caso%20Contagem%20Inicial%20sobrescrever%E1%20a%20quantidade%20em%20estoque%20atual.</text>
       </controlProperties>
     </control>
+    <control controlID="1148" controlTypeID="com.balsamiq.mockups::StickyNote" x="1780" y="2448" w="192" h="123" measuredW="109" measuredH="123" zOrder="94" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>no%20caso%20de%20vendas%20est%E1%20errado...%20o%20usu%E1rio%20tem%20que%20apontar%20qual%20%E9%20a%20localiza%E7%E3o%20que%20ele%20vai%20retirar%2C%20e%20n%E3o%20armazenar</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

@@ -11,7 +11,7 @@
         <text>Registros</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::DataGrid" x="171" y="930" w="167" h="574" measuredW="136" measuredH="85" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::DataGrid" x="171" y="930" w="167" h="574" measuredW="133" measuredH="85" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Menu%0A%20%0A-%20-%20Canal%20de%20Vendas</text>
         <verticalScrollbar>false</verticalScrollbar>
@@ -23,7 +23,7 @@
         <text>Filtro</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Title" x="345" y="932" w="-1" h="-1" measuredW="308" measuredH="50" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Title" x="345" y="932" w="-1" h="-1" measuredW="307" measuredH="50" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>
         <italic>false</italic>
@@ -231,22 +231,22 @@
         <text>1</text>
       </controlProperties>
     </control>
-    <control controlID="789" controlTypeID="com.balsamiq.mockups::TextInput" x="900" y="1037" w="100" h="-1" measuredW="31" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="789" controlTypeID="com.balsamiq.mockups::TextInput" x="900" y="1037" w="100" h="-1" measuredW="32" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <text>R%24</text>
       </controlProperties>
     </control>
-    <control controlID="790" controlTypeID="com.balsamiq.mockups::Label" x="736" y="1013" w="66" h="21" measuredW="65" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="790" controlTypeID="com.balsamiq.mockups::Label" x="736" y="1013" w="66" h="21" measuredW="62" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%24%20Imposto</text>
       </controlProperties>
     </control>
-    <control controlID="791" controlTypeID="com.balsamiq.mockups::TextInput" x="718" y="1033" w="100" h="-1" measuredW="31" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
+    <control controlID="791" controlTypeID="com.balsamiq.mockups::TextInput" x="718" y="1033" w="100" h="-1" measuredW="32" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <text>R%24</text>
       </controlProperties>
     </control>
-    <control controlID="792" controlTypeID="com.balsamiq.mockups::Label" x="918" y="1017" w="93" h="21" measuredW="85" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="792" controlTypeID="com.balsamiq.mockups::Label" x="918" y="1017" w="93" h="21" measuredW="83" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%24%20Operacional</text>
       </controlProperties>
@@ -256,7 +256,7 @@
         <text>2%25</text>
       </controlProperties>
     </control>
-    <control controlID="794" controlTypeID="com.balsamiq.mockups::Label" x="736" y="1080" w="135" h="21" measuredW="137" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
+    <control controlID="794" controlTypeID="com.balsamiq.mockups::Label" x="736" y="1080" w="135" h="21" measuredW="135" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%24%20Canal%20de%20Venda%20%28%25%29</text>
       </controlProperties>
@@ -275,13 +275,13 @@
       </controlProperties>
     </control>
     <control controlID="800" controlTypeID="com.balsamiq.mockups::HelpButton" x="473" y="1072" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="35" locked="false" isInGroup="-1"/>
-    <control controlID="801" controlTypeID="com.balsamiq.mockups::Label" x="918" y="1080" w="147" h="21" measuredW="146" measuredH="21" zOrder="36" locked="false" isInGroup="-1">
+    <control controlID="801" controlTypeID="com.balsamiq.mockups::Label" x="918" y="1080" w="147" h="21" measuredW="143" measuredH="21" zOrder="36" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%24%20Canal%20de%20Venda%20%28Fixo%29</text>
       </controlProperties>
     </control>
     <control controlID="802" controlTypeID="com.balsamiq.mockups::HelpButton" x="900" y="1081" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="37" locked="false" isInGroup="-1"/>
-    <control controlID="803" controlTypeID="com.balsamiq.mockups::TextInput" x="900" y="1098" w="100" h="-1" measuredW="31" measuredH="27" zOrder="38" locked="false" isInGroup="-1">
+    <control controlID="803" controlTypeID="com.balsamiq.mockups::TextInput" x="900" y="1098" w="100" h="-1" measuredW="32" measuredH="27" zOrder="38" locked="false" isInGroup="-1">
       <controlProperties>
         <text>R%24</text>
       </controlProperties>
@@ -293,7 +293,7 @@
         <text>Modulo%20de%20Estoque</text>
       </controlProperties>
     </control>
-    <control controlID="805" controlTypeID="com.balsamiq.mockups::ComboBox" x="1100" y="1031" w="-1" h="-1" measuredW="62" measuredH="48" zOrder="40" locked="false" isInGroup="-1">
+    <control controlID="805" controlTypeID="com.balsamiq.mockups::ComboBox" x="1100" y="1031" w="-1" h="-1" measuredW="59" measuredH="48" zOrder="40" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Ativo%0AInativo</text>
       </controlProperties>
@@ -303,18 +303,18 @@
         <text>Status</text>
       </controlProperties>
     </control>
-    <control controlID="807" controlTypeID="com.balsamiq.mockups::CheckBox" x="2287" y="1011" w="-1" h="-1" measuredW="62" measuredH="22" zOrder="42" locked="false" isInGroup="-1">
+    <control controlID="807" controlTypeID="com.balsamiq.mockups::CheckBox" x="2287" y="1011" w="-1" h="-1" measuredW="53" measuredH="22" zOrder="42" locked="false" isInGroup="-1">
       <controlProperties>
         <state>selected</state>
-        <text>Status</text>
+        <text>Ativo</text>
       </controlProperties>
     </control>
-    <control controlID="809" controlTypeID="com.balsamiq.mockups::TextInput" x="2015" y="939" w="100" h="-1" measuredW="31" measuredH="27" zOrder="43" locked="false" isInGroup="-1">
+    <control controlID="809" controlTypeID="com.balsamiq.mockups::TextInput" x="2015" y="939" w="100" h="-1" measuredW="32" measuredH="27" zOrder="43" locked="false" isInGroup="-1">
       <controlProperties>
         <text>R%24</text>
       </controlProperties>
     </control>
-    <control controlID="810" controlTypeID="com.balsamiq.mockups::Label" x="1913" y="986" w="66" h="21" measuredW="65" measuredH="21" zOrder="44" locked="false" isInGroup="-1">
+    <control controlID="810" controlTypeID="com.balsamiq.mockups::Label" x="1913" y="986" w="66" h="21" measuredW="62" measuredH="21" zOrder="44" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%24%20Imposto</text>
       </controlProperties>
@@ -324,17 +324,17 @@
         <text>%25</text>
       </controlProperties>
     </control>
-    <control controlID="812" controlTypeID="com.balsamiq.mockups::Label" x="2033" y="919" w="93" h="21" measuredW="85" measuredH="21" zOrder="46" locked="false" isInGroup="-1">
+    <control controlID="812" controlTypeID="com.balsamiq.mockups::Label" x="2033" y="919" w="93" h="21" measuredW="83" measuredH="21" zOrder="46" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%24%20Operacional</text>
       </controlProperties>
     </control>
-    <control controlID="813" controlTypeID="com.balsamiq.mockups::TextInput" x="2269" y="939" w="125" h="-1" measuredW="31" measuredH="27" zOrder="47" locked="false" isInGroup="-1">
+    <control controlID="813" controlTypeID="com.balsamiq.mockups::TextInput" x="2269" y="939" w="125" h="-1" measuredW="32" measuredH="27" zOrder="47" locked="false" isInGroup="-1">
       <controlProperties>
         <text>R%24</text>
       </controlProperties>
     </control>
-    <control controlID="814" controlTypeID="com.balsamiq.mockups::Label" x="2159" y="972" w="82" h="42" measuredW="137" measuredH="21" zOrder="48" locked="false" isInGroup="-1">
+    <control controlID="814" controlTypeID="com.balsamiq.mockups::Label" x="2159" y="972" w="82" h="42" measuredW="135" measuredH="21" zOrder="48" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%24%20Canal%20de%20Venda%20%28%25%29</text>
       </controlProperties>
@@ -353,13 +353,13 @@
       </controlProperties>
     </control>
     <control controlID="820" controlTypeID="com.balsamiq.mockups::HelpButton" x="2269" y="919" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="54" locked="false" isInGroup="-1"/>
-    <control controlID="821" controlTypeID="com.balsamiq.mockups::Label" x="2159" y="904" w="82" h="36" measuredW="146" measuredH="21" zOrder="55" locked="false" isInGroup="-1">
+    <control controlID="821" controlTypeID="com.balsamiq.mockups::Label" x="2159" y="904" w="82" h="36" measuredW="143" measuredH="21" zOrder="55" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%24%20Canal%20de%20Venda%20%28Fixo%29</text>
       </controlProperties>
     </control>
     <control controlID="822" controlTypeID="com.balsamiq.mockups::HelpButton" x="2141" y="920" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="56" locked="false" isInGroup="-1"/>
-    <control controlID="823" controlTypeID="com.balsamiq.mockups::TextInput" x="2141" y="937" w="100" h="-1" measuredW="31" measuredH="27" zOrder="57" locked="false" isInGroup="-1">
+    <control controlID="823" controlTypeID="com.balsamiq.mockups::TextInput" x="2141" y="937" w="100" h="-1" measuredW="32" measuredH="27" zOrder="57" locked="false" isInGroup="-1">
       <controlProperties>
         <text>R%24</text>
       </controlProperties>
@@ -369,24 +369,24 @@
         <text>%25</text>
       </controlProperties>
     </control>
-    <control controlID="825" controlTypeID="com.balsamiq.mockups::Label" x="2033" y="986" w="93" h="21" measuredW="85" measuredH="21" zOrder="59" locked="false" isInGroup="-1">
+    <control controlID="825" controlTypeID="com.balsamiq.mockups::Label" x="2033" y="986" w="93" h="21" measuredW="83" measuredH="21" zOrder="59" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%24%20Operacional</text>
       </controlProperties>
     </control>
     <control controlID="826" controlTypeID="com.balsamiq.mockups::HelpButton" x="2015" y="987" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="60" locked="false" isInGroup="-1"/>
-    <control controlID="827" controlTypeID="com.balsamiq.mockups::Label" x="1912" y="919" w="66" h="21" measuredW="65" measuredH="21" zOrder="61" locked="false" isInGroup="-1">
+    <control controlID="827" controlTypeID="com.balsamiq.mockups::Label" x="1912" y="919" w="66" h="21" measuredW="62" measuredH="21" zOrder="61" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%24%20Imposto</text>
       </controlProperties>
     </control>
-    <control controlID="828" controlTypeID="com.balsamiq.mockups::TextInput" x="1894" y="939" w="100" h="-1" measuredW="31" measuredH="27" zOrder="62" locked="false" isInGroup="-1">
+    <control controlID="828" controlTypeID="com.balsamiq.mockups::TextInput" x="1894" y="939" w="100" h="-1" measuredW="32" measuredH="27" zOrder="62" locked="false" isInGroup="-1">
       <controlProperties>
         <text>R%24</text>
       </controlProperties>
     </control>
     <control controlID="829" controlTypeID="com.balsamiq.mockups::HelpButton" x="1894" y="919" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="63" locked="false" isInGroup="-1"/>
-    <control controlID="832" controlTypeID="com.balsamiq.mockups::DataGrid" x="358" y="1186" w="1059" h="189" measuredW="978" measuredH="115" zOrder="64" locked="false" isInGroup="-1">
+    <control controlID="832" controlTypeID="com.balsamiq.mockups::DataGrid" x="358" y="1186" w="1059" h="189" measuredW="940" measuredH="115" zOrder="64" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
         <text>Canal%20de%20Vendas%2C%20R%24%20Imposto%2C%20%25%20Imposto%2C%20R%24%20Operacional%2C%20%25%20Opercional%2C%20R%24%20Canal%20de%20Venda%2C%20%25%20Canal%20de%20Venda%2C%20Magem%20Lucro%2C%20Status%2C%20A%E7%F5es%0ALoja%20Fisica%2C%20%20R%24%2010%5C%2C00%2C%205%25%2C%20R%24%2010%5C%2C00%2C%208%25%2C%20R%24%2010%5C%2C00%2C%2011%25%2C%20R%24%2010%5C%2C00%2C%20Ativo%0ALoja%20Virtual%2C%20R%24%2010%5C%2C00%2C%206%25%2C%20R%24%2010%5C%2C00%2C%209%25%2C%20R%24%2010%5C%2C00%2C%2012%25%2C%20R%24%2010%5C%2C00%2C%20Ativo%0AMercado%20Livre%2C%20R%24%2010%5C%2C00%2C%207%25%2C%20R%24%2010%5C%2C00%2C%2010%25%2C%20R%24%2010%5C%2C00%2C%2013%25%2C%20R%24%2010%5C%2C00%2C%20Inativo%0A%7B20%2C10%2C5%2C10%2C5%2C10%2C5%2C10%2C5%2C20%7D</text>

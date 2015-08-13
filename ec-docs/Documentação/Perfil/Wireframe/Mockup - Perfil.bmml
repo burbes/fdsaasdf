@@ -6,7 +6,7 @@
         <text>Registros</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::DataGrid" x="316" y="1459" w="1042" h="207" measuredW="197" measuredH="115" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::DataGrid" x="316" y="1459" w="1042" h="207" measuredW="198" measuredH="115" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <hLines>false</hLines>
         <selectedIndex>-1</selectedIndex>
@@ -14,7 +14,7 @@
         <vLines>true</vLines>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Title" x="301" y="1148" w="-1" h="-1" measuredW="69" measuredH="37" zOrder="26" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Title" x="301" y="1148" w="-1" h="-1" measuredW="67" measuredH="37" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>
         <italic>false</italic>
@@ -66,9 +66,10 @@
         <value>0</value>
       </controlProperties>
     </control>
-    <control controlID="46" controlTypeID="com.balsamiq.mockups::DataGrid" x="125" y="1146" w="167" h="574" measuredW="159" measuredH="55" zOrder="34" locked="false" isInGroup="-1">
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::DataGrid" x="125" y="1146" w="167" h="574" measuredW="152" measuredH="535" zOrder="34" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Seguran%E7a%0A-%20Configura%E7%E3o%20de%20Papeis</text>
+        <selectedIndex>15</selectedIndex>
+        <text>Menu%0ACadastros%0A-%20Fornecedor%0A-%20Canal%20de%20Venda%0A-%20Cliente%0AEstoque%0A-%20Armaz%E9m%0A-%20Central%20de%20Estoque%0A-%20Contagem%0A-%20Recebimento%0A-%20Situa%E7%E3o%20em%20Estoque%0A-%20Transfer%EAncia%20Interna%0AGeral%0A-%20Configura%E7%E3o%20Global%0A%5B+%5D%20Produto%0ASistema%0A-%20Perfil%0A-%20Usu%E1rio</text>
       </controlProperties>
     </control>
     <control controlID="77" controlTypeID="com.balsamiq.mockups::Button" x="1323" y="1695" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="35" locked="false" isInGroup="-1">
@@ -104,7 +105,7 @@
         <vLines>true</vLines>
       </controlProperties>
     </control>
-    <control controlID="112" controlTypeID="com.balsamiq.mockups::Title" x="1879" y="1146" w="732" h="-1" measuredW="93" measuredH="50" zOrder="39" locked="false" isInGroup="-1">
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::Title" x="1879" y="1146" w="732" h="-1" measuredW="94" measuredH="50" zOrder="39" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>
         <italic>false</italic>
@@ -155,7 +156,7 @@
         <value>0</value>
       </controlProperties>
     </control>
-    <control controlID="121" controlTypeID="com.balsamiq.mockups::DataGrid" x="1705" y="1146" w="167" h="574" measuredW="159" measuredH="55" zOrder="47" locked="false" isInGroup="-1">
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::DataGrid" x="1705" y="1146" w="167" h="574" measuredW="157" measuredH="55" zOrder="47" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Seguran%E7a%0A-%20Configura%E7%E3o%20de%20Papeis</text>
       </controlProperties>
@@ -211,7 +212,7 @@
             <text>rootsi%0Aperfil1%0Aperfil2%0A...</text>
           </controlProperties>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="36" measuredH="21" zOrder="1" locked="false" isInGroup="125">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="1" locked="false" isInGroup="125">
           <controlProperties>
             <text>Perifl</text>
           </controlProperties>
@@ -238,7 +239,7 @@
       <groupChildrenDescriptors>
         <control controlID="2" controlTypeID="__group__" x="0" y="0" w="268" h="115" measuredW="268" measuredH="115" zOrder="0" locked="false" isInGroup="127">
           <groupChildrenDescriptors>
-            <control controlID="0" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="21" w="268" h="-1" measuredW="202" measuredH="94" zOrder="0" locked="false" isInGroup="2">
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="21" w="268" h="-1" measuredW="201" measuredH="94" zOrder="0" locked="false" isInGroup="2">
               <controlProperties>
                 <bold>false</bold>
                 <state>up</state>
@@ -283,7 +284,7 @@
         <text>Registros</text>
       </controlProperties>
     </control>
-    <control controlID="281" controlTypeID="com.balsamiq.mockups::DataGrid" x="1893" y="2344" w="1042" h="207" measuredW="498" measuredH="115" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="281" controlTypeID="com.balsamiq.mockups::DataGrid" x="1893" y="2344" w="1042" h="207" measuredW="501" measuredH="115" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <hLines>false</hLines>
         <selectedIndex>-1</selectedIndex>
@@ -291,7 +292,7 @@
         <vLines>true</vLines>
       </controlProperties>
     </control>
-    <control controlID="282" controlTypeID="com.balsamiq.mockups::Title" x="1878" y="2033" w="732" h="-1" measuredW="93" measuredH="50" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="282" controlTypeID="com.balsamiq.mockups::Title" x="1878" y="2033" w="732" h="-1" measuredW="94" measuredH="50" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>
         <italic>false</italic>
@@ -342,7 +343,7 @@
         <value>0</value>
       </controlProperties>
     </control>
-    <control controlID="291" controlTypeID="com.balsamiq.mockups::DataGrid" x="1702" y="2031" w="167" h="574" measuredW="159" measuredH="55" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="291" controlTypeID="com.balsamiq.mockups::DataGrid" x="1702" y="2031" w="167" h="574" measuredW="157" measuredH="55" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Seguran%E7a%0A-%20Configura%E7%E3o%20de%20Papeis</text>
       </controlProperties>
@@ -424,7 +425,7 @@
                 <text>rootsi%0Aperfil1%0Aperfil2%0A...</text>
               </controlProperties>
             </control>
-            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="36" measuredH="21" zOrder="1" locked="false" isInGroup="2">
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="1" locked="false" isInGroup="2">
               <controlProperties>
                 <text>Perifl</text>
               </controlProperties>
@@ -619,7 +620,7 @@
         <text>Perfil</text>
       </controlProperties>
     </control>
-    <control controlID="360" controlTypeID="com.balsamiq.mockups::TextInput" x="2272" y="1246" w="-1" h="-1" measuredW="88" measuredH="27" zOrder="96" locked="false" isInGroup="-1">
+    <control controlID="360" controlTypeID="com.balsamiq.mockups::TextInput" x="2272" y="1246" w="-1" h="-1" measuredW="90" measuredH="27" zOrder="96" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Empacotador</text>
       </controlProperties>
@@ -636,7 +637,7 @@
             <verticalScrollbar>false</verticalScrollbar>
           </controlProperties>
         </control>
-        <control controlID="11" controlTypeID="com.balsamiq.mockups::DataGrid" x="15" y="54" w="960" h="432" measuredW="604" measuredH="55" zOrder="1" locked="false" isInGroup="363">
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::DataGrid" x="15" y="54" w="960" h="432" measuredW="595" measuredH="55" zOrder="1" locked="false" isInGroup="363">
           <controlProperties>
             <text>Tipo%20Lan%E7amento%2C%20Data%20Lan%E7amento%2C%20IP%2C%20Observa%E7%F5es%0AUSER%20CREATION%2C%2026/06/2014%2011%3A37%3A52%2C%20127.0.0.1%2C%20Cadastro%20efetuado%20por%20Adans%20Bento%20id%3D16</text>
             <verticalScrollbar>true</verticalScrollbar>
@@ -650,7 +651,7 @@
         <text>Registros</text>
       </controlProperties>
     </control>
-    <control controlID="366" controlTypeID="com.balsamiq.mockups::DataGrid" x="1705" y="261" w="167" h="574" measuredW="135" measuredH="175" zOrder="70" locked="false" isInGroup="-1">
+    <control controlID="366" controlTypeID="com.balsamiq.mockups::DataGrid" x="1705" y="261" w="167" h="574" measuredW="136" measuredH="175" zOrder="70" locked="false" isInGroup="-1">
       <controlProperties>
         <text>ERP%20Cont%E1bil%20%0A-%20Financeiro%0A--%20Grade%20de%20Eventos%0A-%20-%20-%20X%0A-%20-%20-%20Y%0A-%20-%20-%20Z</text>
       </controlProperties>
@@ -661,7 +662,7 @@
         <text>Filtro</text>
       </controlProperties>
     </control>
-    <control controlID="368" controlTypeID="com.balsamiq.mockups::DataGrid" x="1894" y="503" w="1040" h="284" measuredW="728" measuredH="82" zOrder="72" locked="false" isInGroup="-1">
+    <control controlID="368" controlTypeID="com.balsamiq.mockups::DataGrid" x="1894" y="503" w="1040" h="284" measuredW="714" measuredH="82" zOrder="72" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>false</bold>
         <borderStyle>square</borderStyle>
@@ -673,7 +674,7 @@
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
     </control>
-    <control controlID="369" controlTypeID="com.balsamiq.mockups::Title" x="1879" y="263" w="-1" h="-1" measuredW="393" measuredH="50" zOrder="73" locked="false" isInGroup="-1">
+    <control controlID="369" controlTypeID="com.balsamiq.mockups::Title" x="1879" y="263" w="-1" h="-1" measuredW="394" measuredH="50" zOrder="73" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>
         <italic>false</italic>
@@ -726,12 +727,12 @@
     </control>
     <control controlID="378" controlTypeID="__group__" x="2010" y="364" w="90" h="46" measuredW="90" measuredH="46" zOrder="81" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="0" locked="false" isInGroup="378">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="0" locked="false" isInGroup="378">
           <controlProperties>
             <text>Data%20In%EDcio</text>
           </controlProperties>
         </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::DateChooser" x="0" y="21" w="90" h="-1" measuredW="90" measuredH="25" zOrder="1" locked="false" isInGroup="378">
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::DateChooser" x="0" y="21" w="90" h="-1" measuredW="89" measuredH="25" zOrder="1" locked="false" isInGroup="378">
           <controlProperties>
             <text>%20%20/%20%20/%20%20%20%20</text>
           </controlProperties>
@@ -765,12 +766,12 @@
     </control>
     <control controlID="381" controlTypeID="__group__" x="2239" y="364" w="90" h="46" measuredW="90" measuredH="46" zOrder="84" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="0" locked="false" isInGroup="381">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="0" locked="false" isInGroup="381">
           <controlProperties>
             <text>Data%20In%EDcio</text>
           </controlProperties>
         </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::DateChooser" x="0" y="21" w="90" h="-1" measuredW="90" measuredH="25" zOrder="1" locked="false" isInGroup="381">
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::DateChooser" x="0" y="21" w="90" h="-1" measuredW="89" measuredH="25" zOrder="1" locked="false" isInGroup="381">
           <controlProperties>
             <text>%20%20/%20%20/%20%20%20%20</text>
           </controlProperties>
@@ -798,7 +799,7 @@
                     <shape>roundRect</shape>
                   </controlProperties>
                 </control>
-                <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="2" y="2" w="-1" h="-1" measuredW="68" measuredH="17" zOrder="1" locked="false" isInGroup="1">
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="2" y="2" w="-1" h="-1" measuredW="65" measuredH="17" zOrder="1" locked="false" isInGroup="1">
                   <controlProperties>
                     <size>10</size>
                     <text>Naelson%20M.%20Jr</text>
@@ -811,7 +812,7 @@
                 </control>
               </groupChildrenDescriptors>
             </control>
-            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="88" y="3" w="-1" h="-1" measuredW="90" measuredH="21" zOrder="2" locked="false" isInGroup="1">
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="88" y="3" w="-1" h="-1" measuredW="88" measuredH="21" zOrder="2" locked="false" isInGroup="1">
               <controlProperties>
                 <text>fzancanella@g</text>
               </controlProperties>
@@ -875,7 +876,7 @@
             <text>rootsi%0Aperfil1%0Aperfil2%0A...</text>
           </controlProperties>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="36" measuredH="21" zOrder="1" locked="false" isInGroup="408">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="1" locked="false" isInGroup="408">
           <controlProperties>
             <text>Perifl</text>
           </controlProperties>

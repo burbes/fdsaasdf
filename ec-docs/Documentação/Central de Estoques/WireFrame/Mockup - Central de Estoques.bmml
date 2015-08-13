@@ -11,9 +11,10 @@
         <text>Registros</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::DataGrid" x="171" y="1198" w="167" h="574" measuredW="153" measuredH="85" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::DataGrid" x="171" y="1198" w="167" h="556" measuredW="152" measuredH="685" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Menu%0A-%20Estoque%0A-%20-%20Central%20de%20Estoques</text>
+        <selectedIndex>6</selectedIndex>
+        <text>Menu%0ACadastros%0A-%20Fornecedor%0A-%20Canal%20de%20Venda%0A-%20Cliente%0AEstoque%0A-%20Armaz%E9m%0A-%20Central%20de%20Estoque%0A-%20Contagem%0A-%20Recebimento%0A-%20Situa%E7%E3o%20em%20Estoque%0A-%20Transfer%EAncia%20Interna%0AGeral%0A-%20Configura%E7%E3o%20Global%0AProduto%0A-%20Compra%0A-%20Expedi%E7%E3o%0A-%20Extrato%20de%20Produto%0A-%20Liquida%E7%E3o%0A-%20Produtos%0ASistema%0A-%20Perfil%0A-%20Usu%E1rio</text>
       </controlProperties>
     </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::FieldSet" x="345" y="1251" w="1088" h="130" measuredW="200" measuredH="170" zOrder="3" locked="false" isInGroup="-1">
@@ -151,7 +152,7 @@
       </controlProperties>
     </control>
     <control controlID="27" controlTypeID="com.balsamiq.mockups::TextInput" x="365" y="1304" w="152" h="-1" measuredW="79" measuredH="27" zOrder="24" locked="false" isInGroup="-1"/>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="628" y="1286" w="-1" h="-1" measuredW="80" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="628" y="1286" w="-1" h="-1" measuredW="74" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Localiza%E7%E3o%3A</text>
       </controlProperties>
@@ -216,7 +217,7 @@
         <text>%28*%29</text>
       </controlProperties>
     </control>
-    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="1884" y="1665" w="-1" h="-1" measuredW="115" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="1884" y="1665" w="-1" h="-1" measuredW="111" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Campo%20Obrigat%F3rio</text>
       </controlProperties>
@@ -231,12 +232,12 @@
         <text>Log</text>
       </controlProperties>
     </control>
-    <control controlID="115" controlTypeID="com.balsamiq.mockups::ComboBox" x="1862" y="1237" w="319" h="-1" measuredW="75" measuredH="94" zOrder="42" locked="false" isInGroup="-1">
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::ComboBox" x="1862" y="1237" w="319" h="-1" measuredW="76" measuredH="94" zOrder="42" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Avarias%0ADevolu%E7%E3o%0AConserto%0AVendas%0AQualidade</text>
       </controlProperties>
     </control>
-    <control controlID="116" controlTypeID="com.balsamiq.mockups::Label" x="1862" y="1215" w="-1" h="-1" measuredW="62" measuredH="21" zOrder="43" locked="false" isInGroup="-1">
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::Label" x="1862" y="1215" w="-1" h="-1" measuredW="63" measuredH="21" zOrder="43" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Armaz%E9m</text>
       </controlProperties>
@@ -270,12 +271,12 @@
         <text>Localiza%E7%E3o</text>
       </controlProperties>
     </control>
-    <control controlID="137" controlTypeID="com.balsamiq.mockups::Label" x="1882" y="1362" w="-1" h="-1" measuredW="54" measuredH="21" zOrder="39" locked="false" isInGroup="-1">
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::Label" x="1882" y="1362" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="39" locked="false" isInGroup="-1">
       <controlProperties>
         <text>X%20%28alias%29</text>
       </controlProperties>
     </control>
-    <control controlID="139" controlTypeID="com.balsamiq.mockups::Label" x="1981" y="1362" w="-1" h="-1" measuredW="54" measuredH="21" zOrder="40" locked="false" isInGroup="-1">
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::Label" x="1981" y="1362" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="40" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Y%20%28alias%29</text>
       </controlProperties>
@@ -290,7 +291,7 @@
         <text>A%0AZ</text>
       </controlProperties>
     </control>
-    <control controlID="144" controlTypeID="com.balsamiq.mockups::ComboBox" x="1981" y="1383" w="50" h="-1" measuredW="39" measuredH="48" zOrder="47" locked="false" isInGroup="-1">
+    <control controlID="144" controlTypeID="com.balsamiq.mockups::ComboBox" x="1981" y="1383" w="50" h="-1" measuredW="38" measuredH="48" zOrder="47" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1%0A100</text>
       </controlProperties>
@@ -300,12 +301,12 @@
         <text>Custo%20de%20Deslocamento</text>
       </controlProperties>
     </control>
-    <control controlID="147" controlTypeID="com.balsamiq.mockups::TextInput" x="1862" y="1475" w="70" h="-1" measuredW="21" measuredH="27" zOrder="49" locked="false" isInGroup="-1">
+    <control controlID="147" controlTypeID="com.balsamiq.mockups::TextInput" x="1862" y="1475" w="70" h="-1" measuredW="20" measuredH="27" zOrder="49" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1</text>
       </controlProperties>
     </control>
-    <control controlID="148" controlTypeID="com.balsamiq.mockups::ComboBox" x="2087" y="1383" w="50" h="-1" measuredW="39" measuredH="48" zOrder="50" locked="false" isInGroup="-1">
+    <control controlID="148" controlTypeID="com.balsamiq.mockups::ComboBox" x="2087" y="1383" w="50" h="-1" measuredW="38" measuredH="48" zOrder="50" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1%0A100</text>
       </controlProperties>
@@ -340,7 +341,7 @@
         <text>Area%20%28m%B2%29</text>
       </controlProperties>
     </control>
-    <control controlID="155" controlTypeID="com.balsamiq.mockups::TextInput" x="1870" y="1606" w="142" h="-1" measuredW="30" measuredH="27" zOrder="53" locked="false" isInGroup="-1">
+    <control controlID="155" controlTypeID="com.balsamiq.mockups::TextInput" x="1870" y="1606" w="142" h="-1" measuredW="32" measuredH="27" zOrder="53" locked="false" isInGroup="-1">
       <controlProperties>
         <color>13421772</color>
         <text>20</text>
@@ -415,7 +416,7 @@
         <text>%28*%29</text>
       </controlProperties>
     </control>
-    <control controlID="167" controlTypeID="com.balsamiq.mockups::Label" x="424" y="2345" w="-1" h="-1" measuredW="115" measuredH="21" zOrder="70" locked="false" isInGroup="-1">
+    <control controlID="167" controlTypeID="com.balsamiq.mockups::Label" x="424" y="2345" w="-1" h="-1" measuredW="111" measuredH="21" zOrder="70" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Campo%20Obrigat%F3rio</text>
       </controlProperties>
@@ -425,7 +426,7 @@
         <text>Custo%20de%20Deslocamento</text>
       </controlProperties>
     </control>
-    <control controlID="178" controlTypeID="com.balsamiq.mockups::TextInput" x="402" y="2155" w="70" h="-1" measuredW="21" measuredH="27" zOrder="72" locked="false" isInGroup="-1">
+    <control controlID="178" controlTypeID="com.balsamiq.mockups::TextInput" x="402" y="2155" w="70" h="-1" measuredW="20" measuredH="27" zOrder="72" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1</text>
       </controlProperties>
@@ -440,7 +441,7 @@
         <text>Area%20%28m%B2%29</text>
       </controlProperties>
     </control>
-    <control controlID="182" controlTypeID="com.balsamiq.mockups::TextInput" x="410" y="2286" w="142" h="-1" measuredW="30" measuredH="27" zOrder="75" locked="false" isInGroup="-1">
+    <control controlID="182" controlTypeID="com.balsamiq.mockups::TextInput" x="410" y="2286" w="142" h="-1" measuredW="32" measuredH="27" zOrder="75" locked="false" isInGroup="-1">
       <controlProperties>
         <color>13421772</color>
         <text>20</text>

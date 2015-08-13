@@ -1,0 +1,31 @@
+﻿
+	- aba em produtos para codigo de barra
+	inserir um input para codigo de barras 
+	inserir campo para quantidade de codigos de barras para impressão
+	================================================
+	modulo de contagem vira apenas para contagens avulsas
+	tela de recebimento (analoga a tela de expedição)
+	modal para novas encomendas passa a ser nessa tela tbm
+	recebimento de produtos é sempre por codigo de barra
+	apos recebido o produto, bipa e imprime as etiquetas
+	bipa para mudar o status para imprimir etiquetas
+	bipa para colar
+	bipa para terminar a colagem
+	produto fica (agaurdando contagem)
+	bipa o produto, bipa o pedido (bota no carrinho)
+	bipa o produto, bipa o pedido (bota no carrinho)
+	bipa o produto, bipa o pedido (bota no carrinho)
+	quando terminar, ele dá o dois bipes no pedido
+	poe os produtos no carrinho
+	folha de rosto com as localização de todos os produtos de cada pedido
+	terminou de guardar, bipa a folha de rosto (o pedido)
+	pode bipar varias vfolhas de rosto
+	modulo de compras muda de aguardando recebimento muda para contado e se tiver divergencia ele aponta a divergencia ( no modulo de compras )
+	no modulo de extrato vai lançar cada produto e quantidade.
+	================================================
+	
+	- mesmo procedimento para contagem
+	gerar uma folha de rosto para contagem
+	o mesmo procedimento
+	
+	
